@@ -21,7 +21,7 @@
 .list-post li .title {
   width: 0;
   flex-grow: 1;
-  padding: 4px 0;
+  padding: 4px 12px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
