@@ -10,7 +10,7 @@ categories: [wordpress, php, html, css, scss, javascript, طراحی تم]
 صفحه ای که دیدید ویرایشگر گوتنبرگ است که از نسخه ۵ جایگزین tinyMCE شده است. ویرایش پست ها و صفحات نیز از همین ویرایشگر استفاده می کنند. این یعنی اکنون ویرایش تم در وردپرس به آسانی ویرایش پست ها است!<br/>
 اما در این پست می خواهیم کمی جلوتر برویم و با PHP و API وردپرس تم بسازیم.<br/><br/>
 
-## بریم بسازیم! Hello World!
+###  بریم بسازیم! Hello World!
 یک پوشه تازه برای تم در آدرس wp-content/themes/ بسازید. <br/>
 می توانید هر اسمی برای آن انتخاب کنید: مثلا xgutenberg<br/>
 
@@ -21,7 +21,7 @@ categories: [wordpress, php, html, css, scss, javascript, طراحی تم]
 /*
  Theme Name: X Gutenberg Block Theme
 */
-```<br/>
+```
 
 یک فایل به نام index.php بسازید و آن را خالی بگذارید.<br/>
 
@@ -33,8 +33,6 @@ categories: [wordpress, php, html, css, scss, javascript, طراحی تم]
     <p>Hello World!</p>
   </body>
 </html>
-```<br/>
-
-
+```
 
 حالا می توانید از طریق منو Appearance>Themes تم خود را انتخاب و فعال کنید!<br>
