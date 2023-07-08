@@ -1,3 +1,6 @@
+* {
+  direction:rtl;
+}
 html {
   color: #333333;
   background: #ffffff;
