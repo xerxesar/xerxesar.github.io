@@ -97,6 +97,9 @@
   tab-size: 4;
   line-height: 1.6;
 }
+.page-post .highlight {
+  direction: ltr!important;
+}
 .page-post code {
   font-size: 13px;
   background-color: #eeeeee;
